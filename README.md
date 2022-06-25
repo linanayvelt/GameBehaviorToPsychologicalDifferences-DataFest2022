@@ -9,6 +9,7 @@ Link to code: https://app.hex.tech/duke_cs/hex/302b63e3-c893-46e0-9c99-ec2a67685
 Link to DataFest 2022 Competition website: https://www2.stat.duke.edu/datafest/
 
 **user_scores_per_period.py**
+
 We were given survey data that shows the learning progress of each student as they were playing the game called s5. 
 The students participating in the study took the survey ever three weeks as they were making their way through the 
 game. 
